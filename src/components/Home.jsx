@@ -7,7 +7,7 @@ function Home() {
   return (
     <div>
         <div className='relative '>
-            <img className='h-80 lg:h-fit ' src="src\assets\pexels-daniel-reche-3616956.jpg" alt="" />
+            <img className='h-80 lg:h-fit ' src="public\pexels-daniel-reche-3616956.jpg" alt="" />
             <div className='absolute top-[10%] lg:top-[20%] w-screen m-auto text-center'>
                 <img className='w-44 m-auto' src="https://themewagon.github.io/burger/img/shape/1.png" alt="" />
                 <span className='text-white text-xl font-bold absolute left-[48%] top-3 text-center'>Big Deal</span>
