@@ -19,9 +19,9 @@ function Footer() {
         </div>
         <div className='flex flex-col lg:w-[30%] '>
         <span className='text-2xl font-semibold'>Stay Connected</span>
-        <div className='-space-x-6'> 
-        <input className='rounded-3xl px-10 py-3 border-2 mt-4' type="text" placeholder='Enter your email'/>
-        <button className='bg-orange-600 px-6 py-3 rounded-3xl text-white font-semibold '>Sign Up</button>
+        <div className='-space-x-10 flex justify-center'> 
+        <input className='rounded-3xl px-3 py-2 h-10 border-2 mt-4 lg:px-10 lg:py-5' type="text" placeholder='Enter your email'/>
+        <button className='bg-orange-600 h-10 lg:h-fit mt-4  px-3 rounded-3xl lg:px-6 lg:py-2  text-white font-semibold '>Sign Up</button>
         </div>
         <span className='mt-4 text-lg mb-10'>Stay connect with us to get exclusive offer!</span>
         </div>
